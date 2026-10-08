@@ -16,7 +16,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, ContextTypes, CallbackQueryHandler
 from telegram.error import BadRequest, TimedOut, NetworkError
 
-TELEGRAM_TOKEN = "8924966752:AAHASJW1QsBe9Q1rLtCdDcZm800wTueNV-o"   # your token
+TELEGRAM_TOKEN = "8821595319:AAF10cXPdYADaKFI6OYaSVUoY7glVLV8elY"   # your token
 BASE = "https://lagoslife.app"
 PORT = int(os.getenv("PORT", 10000))
 

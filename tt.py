@@ -49,7 +49,7 @@ try:
 except ImportError:
     HAS_PW = False
 
-TELEGRAM_TOKEN = "8924966752:AAHASJW1QsBe9Q1rLtCdDcZm800wTueNV-o"
+TELEGRAM_TOKEN = "8924966752:AAH7O0u6_qKsh_FNCbhWjb9gfhJnXCpsLLs"
 BASE = "https://lagoslife.app"
 # Works on both Render Web Service (PORT set) and Background Worker / VPS (no PORT)
 _PORT_ENV = os.getenv("PORT")
